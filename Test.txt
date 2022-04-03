@@ -3,6 +3,7 @@ Adding Line 1Add Line2.
 Adding Line 3.
 
 Adding Lines for Branch.New Branch
+Branch changes for the conflcit.
 
 Thank you!
 Done My changes.
